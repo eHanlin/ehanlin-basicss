@@ -1,0 +1,18 @@
+{
+  "name": "ehanlin-basicss",
+  "version": "0.0.3",
+  "description": "eHanlin basic style",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/eHanlin/ehanlin-basicss.git"
+  },
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "browserSync"
+  },
+  "keywords": [
+    "ehanlin"
+  ],
+  "author": "eHanlin-rodick <rodick@ehanlin.com.tw>",
+  "license": "MIT"
+}
