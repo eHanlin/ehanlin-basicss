@@ -1,10 +1,17 @@
 {
   "name": "ehanlin-basicss",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "eHanlin basic style",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/eHanlin/ehanlin-basicss.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eHanlin/ehanlin-basicss.git"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-less": "3.5.0",
+    "gulp-notify": "3.2.0",
+    "gulp-plumber": "1.2.1",
+    "browser-sync": "2.26.3"
   },
   "main": "gulpfile.js",
   "scripts": {

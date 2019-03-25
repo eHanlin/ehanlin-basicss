@@ -28,7 +28,7 @@
   display: inline-block;
   width: 10px;
   height: 10px;
-  background: url('../images/l_icons.png') no-repeat -132px -3px;
+  background: url("../images/l_icons.png") no-repeat -132px -3px;
 }
 .menu a.none {
   background: none !important;
